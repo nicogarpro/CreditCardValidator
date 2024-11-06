@@ -1,5 +1,4 @@
 
-
 # Ask for an input
 
 card = input("Please type card number")
