@@ -33,7 +33,6 @@ Next, you have to explain how to use your project. You can create subsections un
 
 
 # Contribute
-[(Back to top)](#table-of-contents)
 
 To contribute in this project, please contact the owner.
 
@@ -41,7 +40,6 @@ Any contributions or comments will be highly appreciated, and will help the adva
 
 
 # License
-[(Back to top)](#table-of-contents)
 
 [MIT license](./LICENSE)
 
