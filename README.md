@@ -1,10 +1,10 @@
 
 # Credit Card Validator
 
-[![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)](https://img.shields.io/github/v/release/navendu-pottekkat/awesome-readme?include_prereleases)
-[![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
-[![GitHub issues](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-raw/navendu-pottekkat/awesome-readme)
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)](https://img.shields.io/github/issues-pr/navendu-pottekkat/awesome-readme)
+![GitHub Release](https://img.shields.io/github/v/release/nicogarpro/creditcardvalidator?include_prereleases&display_name=release)
+![Gitea Last Commit](https://img.shields.io/gitea/last-commit/nicogarpro/creditcardvalidator)
+![GitHub License](https://img.shields.io/github/license/nicogarpro/creditcardvalidator)
+
 
 This project is a proof of concept on checking credit cards' Issuer Information, Country, and later Bank, based on a database uploaded by the user, that can be used by payment websites, or banks to indentify fraud and check if a credit card existes.
 
